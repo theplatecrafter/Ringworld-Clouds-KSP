@@ -1,0 +1,26 @@
+{
+  "spec_version": "v1.4",
+  "identifier": "RingworldClouds",
+  "name": "Ringworld Clouds",
+  "abstract": "Weather-driven volumetric clouds for the cylindrical terrain of Niven's Ringworld.",
+  "author": "theplatecrafter",
+  "license": "MIT",
+  "$kref": "#/ckan/github/theplatecrafter/Ringworld-Clouds-KSP",
+  "ksp_version": "1.12.5",
+  "depends": [
+    {
+      "name": "NivenRingworld",
+      "version": "1.1.5"
+    }
+  ],
+  "install": [
+    {
+      "file": "GameData/RingworldClouds",
+      "install_to": "GameData"
+    }
+  ],
+  "resources": {
+    "repository": "https://github.com/theplatecrafter/Ringworld-Clouds-KSP",
+    "bugtracker": "https://github.com/theplatecrafter/Ringworld-Clouds-KSP/issues"
+  }
+}

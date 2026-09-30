@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2221899479
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a565d4a2109eb7d94d774ef234a7a280
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0750d4576eedfd971a9815dc06e921b6
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 117
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Shaders/CloudCoverageProbe.shader
+- Assets/Shaders/CloudAtmosphere.shader
+- Assets/CloudShape.asset
+- Assets/Shaders/CloudDeck.shader
+- Assets/CloudNoise.asset
+Dependencies: []
