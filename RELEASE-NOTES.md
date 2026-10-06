@@ -1,5 +1,12 @@
 # Release notes
 
+## 1.0.1 — October 5, 2026
+
+- Updated release packaging and version reporting. CKAN metadata now lives in the dedicated NetKAN checkout and is not bundled.
+- Documents automatic extension activation and the dedicated extension settings panel.
+- Requires NivenRingworld >= 1.1.5; recommended with 1.1.7. No new cloud shader effects are introduced by this maintenance release.
+
+
 ## 1.0.0 ? September 30, 2026
 
 Weather-driven cloud volumes, ten configurable cloud families, quality-scaled shape detail, depth clipping, daylight response and a transition to the base distant cloud layer.

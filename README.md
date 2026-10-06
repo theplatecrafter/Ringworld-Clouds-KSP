@@ -2,7 +2,7 @@
 
 Weather-driven volumetric clouds for the cylindrical terrain of Niven's Ringworld.
 
-This optional extension requires **Niven Ringworld 1.1.5** and KSP 1.12.5. Install Harmony 2 (2.2.1.0 or newer) as required by the base mod. No dependencies are bundled. The base Ringworld mod works without this extension; installing it does not change terrain, water levels, gravity, science or saved vessels.
+This optional extension requires **Niven Ringworld >= 1.1.5** and KSP 1.12.5. Install Harmony 2 (2.2.1.0 or newer) as required by the base mod. No dependencies are bundled. The base Ringworld mod works without this extension; installing it does not change terrain, water levels, gravity, science or saved vessels.
 
 ## Installation
 
@@ -35,3 +35,5 @@ Close KSP and remove only `GameData/RingworldClouds`. The base mod retains the r
 ## In-game controls
 
 In the Ringworld panel, open **Extensions** and expand **Ringworld Clouds**. Installed extensions are enabled by default; a saved disabled choice is respected. The top switch applies immediately. Save your game to retain your choice. Quality presets still control rendering cost. These controls are provided by the base mod v1.1.5 control-panel update.
+
+Current release: **1.0.1**. Requires NivenRingworld >= 1.1.5; recommended with 1.1.7.
