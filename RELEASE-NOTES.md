@@ -1,5 +1,9 @@
 # Release notes
 
+## Unreleased - manual modpack inclusion
+
+The current local Clouds build is included in the sibling `Ringworld Modpacks` full-size interstellar artifact together with the matching base, Scattering, config and required dependency closure. This combined manual pack is explicitly dependency-inclusive; the standalone Clouds archive remains dependency-free and still requires the base. No external dependency, NetKAN declaration or component version is changed. The pack is an unpublished development snapshot; see its release notes for assembled-pack validation.
+
 ## 1.0.1 — October 5, 2026
 
 - Updated release packaging and version reporting. CKAN metadata now lives in the dedicated NetKAN checkout and is not bundled.
